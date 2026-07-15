@@ -50,7 +50,7 @@ This project is an IoT-based smart security system that detects motion using a P
 6. Encode the image into Base64 format.
 7. Upload the image to Firebase Realtime Database.
 8. Wait for the next motion event.
-
+ 
 ---
 
 # Features
